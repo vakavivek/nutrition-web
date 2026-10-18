@@ -1,0 +1,7 @@
+# Backend dependencies for Render's 512 MB free instance.
+fastapi
+uvicorn
+python-dotenv
+pandas
+openpyxl
+langchain_mistralai
